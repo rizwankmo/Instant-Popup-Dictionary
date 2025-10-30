@@ -11,7 +11,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Configuration & Customization](#%EF%B8%8Fconfiguration--customization)
-- [Development and Contributing]([#development-and-contributing)
+- [Development and Contributing](#development-and-contributing)
 - [Future Enhancements](#future-enhancements)
 - [License](#license)
 
