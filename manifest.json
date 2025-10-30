@@ -1,0 +1,35 @@
+{
+  "manifest_version": 3,
+  "name": "Popup Dictionary MVP",
+  "version": "0.1.0",
+  "description": "Highlight text to see a quick dictionary definition popup.",
+  "permissions": ["storage", "activeTab", "scripting"],
+  "host_permissions": ["https://api.dictionaryapi.dev/*"],
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "action": {
+    "default_title": "Popup Dictionary",
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "run_at": "document_idle",
+      "js": ["content.js"],
+      "css": ["popup.css"]
+    }
+  ],
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["popup.css"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}

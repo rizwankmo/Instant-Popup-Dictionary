@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Instant Dictionary</title>
+    <style>
+      body { font: 14px system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 12px; width: 300px;}
+      .row { display:flex; gap:8px; }
+      input { flex:1; padding:6px 8px; }
+      button { padding:6px 10px; }
+      .result { margin-top:10px; }
+      .word { font-weight:600; }
+      .phon { color:#555; }
+    </style>
+  </head>
+  <body>
+    <div class="row">
+      <input id="q" type="text" placeholder="Type a word" />
+      <button id="go">Define</button>
+    </div>
+    <div class="result">
+      <div class="word"></div>
+      <div class="phon"></div>
+      <div class="def"></div>
+    </div>
+    <script src="popup.js"></script>
+  </body>
+</html>
