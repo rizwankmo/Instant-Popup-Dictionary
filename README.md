@@ -85,7 +85,7 @@ Open any webpage → select a word → a popup should appear with its meaning.
 
 ---
 
-## Development and Contributing
+##Development and Contributing
 
 Want to improve this project? Contributions are welcome!
 
