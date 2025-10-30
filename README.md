@@ -10,8 +10,8 @@
 - [Why Use It](#why-use-it)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Configuration & Customization](#configuration--customization)
-- [Development / Contributing](#development--contributing)
+- [Configuration & Customization](#configuration-&-customization)
+- [Development / Contributing](#development-/-contributing)
 - [Future Enhancements](#future-enhancements)
 - [License](#license)
 
@@ -46,7 +46,7 @@ If you frequently read articles, blogs, or technical papers online, you’ve lik
 
 ## ⚙️Installation
 
-### 🧩 For End Users (Chrome / Chromium / Edge)
+### 🧩For End Users (Chrome / Chromium / Edge)
 1. Clone or download the repository:
    ```bash
    git clone https://github.com/rizwankmo/Instant-Popup-Dictionary.git
