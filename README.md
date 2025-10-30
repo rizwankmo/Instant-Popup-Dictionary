@@ -17,13 +17,13 @@
 
 ---
 
-## 🌊 Overview
+## 🌊Overview
 **Instant Popup Dictionary** is a browser extension that lets you select any word on a webpage and instantly view its meaning in a neat popup — without leaving your current tab.  
 Perfect for readers, students, and professionals who want fast vocabulary lookups and minimal disruption while reading.
 
 ---
 
-## ✨ Features
+## ✨Features
 - ⚡ **Instant Lookup** — Select or double-click a word to get its meaning.
 - 🧠 **Stay in Context** — No need to switch tabs or copy text.
 - 🎨 **Lightweight & Clean UI** — Simple, non-intrusive popup design.
@@ -32,7 +32,7 @@ Perfect for readers, students, and professionals who want fast vocabulary lookup
 
 ---
 
-## 💡 Why Use It
+## 💡Why Use It
 If you frequently read articles, blogs, or technical papers online, you’ve likely come across unfamiliar terms.  
 **Instant Popup Dictionary** eliminates the need to open a new tab or app to check meanings — allowing you to stay focused and learn naturally as you read.
 
@@ -44,7 +44,7 @@ If you frequently read articles, blogs, or technical papers online, you’ve lik
 
 ---
 
-## ⚙️ Installation
+## ⚙️Installation
 
 ### 🧩 For End Users (Chrome / Chromium / Edge)
 1. Clone or download the repository:
@@ -61,7 +61,7 @@ Open any webpage → select a word → a popup should appear with its meaning.
 
 ---
 
-## 🧰 Usage
+## 🧰Usage
 1. Navigate to any website with selectable text.
 2. **Select or double-click** a word.
 3. A popup appears showing:
@@ -71,7 +71,7 @@ Open any webpage → select a word → a popup should appear with its meaning.
 
 ---
 
-## ⚙️ Configuration & Customization
+## ⚙️Configuration & Customization
 - **Popup Styling:**  
   Modify `popup.css` for colors, fonts, and layout.
 - **Trigger Behavior:**  
@@ -85,7 +85,7 @@ Open any webpage → select a word → a popup should appear with its meaning.
 
 ---
 
-## 🧑‍💻 Development / Contributing
+## 🧑‍💻Development / Contributing
 
 Want to improve this project? Contributions are welcome!
 
@@ -110,7 +110,7 @@ Want to improve this project? Contributions are welcome!
 
 ---
 
-## 🚀 Future Enhancements
+## 🚀Future Enhancements
 - 🌐 Multi-language support  
 - 🌙 Dark/Light mode themes  
 - 🧭 Word lookup history  
@@ -119,7 +119,7 @@ Want to improve this project? Contributions are welcome!
 
 ---
 
-## 📄 License
+## 📄License
 This project is licensed under the **MIT License**.
 
 ```
@@ -136,7 +136,7 @@ copies of the Software...
 
 ---
 
-### 💙 Support
+### 💙Support
 If you like this project, please **⭐ star the repo** and share it!  
 Feedback and ideas are always welcome.
 
