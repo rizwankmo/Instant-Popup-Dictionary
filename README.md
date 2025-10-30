@@ -11,7 +11,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Configuration & Customization](#%EF%B8%8Fconfiguration--customization)
-- [Development / Contributing]([#%F0%9F%A7%91%E2%80%8D%F0%9F%92%BBdevelopment--contributing])
+- [Development and Contributing]([#development-and-contributing)
 - [Future Enhancements](#future-enhancements)
 - [License](#license)
 
@@ -85,7 +85,7 @@ Open any webpage → select a word → a popup should appear with its meaning.
 
 ---
 
-## 🧑‍💻Development / Contributing
+## 🧑‍💻Development and Contributing
 
 Want to improve this project? Contributions are welcome!
 
