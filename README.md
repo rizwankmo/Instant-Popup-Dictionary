@@ -11,7 +11,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Configuration & Customization](#%EF%B8%8Fconfiguration--customization)
-- [Development / Contributing](#%F0%9F%A7%91%E2%80%8D%F0%9F%92%BBdevelopment--contributing)
+- [Development / Contributing]([#%F0%9F%A7%91%E2%80%8D%F0%9F%92%BBdevelopment--contributing](https://github.com/rizwankmo/Instant-Popup-Dictionary/blob/main/README.md#%E2%80%8Ddevelopment--contributing))
 - [Future Enhancements](#future-enhancements)
 - [License](#license)
 
