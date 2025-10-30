@@ -10,8 +10,8 @@
 - [Why Use It](#why-use-it)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Configuration & Customization](#configuration-&-customization)
-- [Development / Contributing](#development-/-contributing)
+- [Configuration & Customization](#%EF%B8%8Fconfiguration--customization)
+- [Development / Contributing](#%F0%9F%A7%91%E2%80%8D%F0%9F%92%BBdevelopment--contributing)
 - [Future Enhancements](#future-enhancements)
 - [License](#license)
 
@@ -44,7 +44,7 @@ If you frequently read articles, blogs, or technical papers online, you’ve lik
 
 ---
 
-## ⚙️Installation
+## <!-- ⚙️ -->Installation
 
 ### 🧩For End Users (Chrome / Chromium / Edge)
 1. Clone or download the repository:
