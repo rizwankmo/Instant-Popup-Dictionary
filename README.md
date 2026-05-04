@@ -28,7 +28,9 @@ Perfect for readers, students, and professionals who want fast vocabulary lookup
 - 🧠 **Stay in Context** — No need to switch tabs or copy text.
 - 🎨 **Lightweight & Clean UI** — Simple, non-intrusive popup design.
 - 🧩 **Easy to Modify** — Fully open-source and customizable.
-- 🌍 **API-Ready** — Designed to integrate with dictionary APIs.
+- 🌍 **API-Ready*<img width="470" height="264" alt="learnword2" src="https://github.com/user-attachments/assets/b0b4a96c-abdd-4139-bb52-31cbd3eaf115" />
+<img width="1120" height="848" alt="learnword3" src="https://github.com/user-attachments/assets/c8885eed-3066-4d45-9394-66fccd1f556e" />
+* — Designed to integrate with dictionary APIs.
 
 ---
 
